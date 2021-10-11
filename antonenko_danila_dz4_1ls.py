@@ -19,7 +19,7 @@ def currency_rates(ticket):
 
         print(f'За {currency_info[0]} {currency_info[1]} дают {currency_info[2]} рублей')
     else:
-        print('Введите корректную валюту')
+        print('Введите корректную валюту!')
 
 
 if __name__ == "__main__":
